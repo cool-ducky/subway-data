@@ -1,0 +1,26 @@
+{
+    "bread": {
+        "emoji": "🍞",
+        "level": "1"
+    },
+    "tuna": {
+        "emoji": "🐟",
+        "level": "1"
+    },
+    "tomato": {
+      "emoji": "🍅",
+      "level": "3"
+    },
+    "cheese": {
+      "emoji": "🧀",
+      "level": "2"
+    },
+    "meat": {
+      "emoji": "🥩",
+      "level": "2"
+    },
+    "lettuce": {
+      "emoji": "🥬",
+      "level": "2"
+    }
+}
